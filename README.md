@@ -6,6 +6,8 @@ This is a curated list of awesome Joint Embedding Predictive Architecture (JEPA)
 
 ## Table of Contents
 
+<!--lint ignore awesome-list-item-->
+
 - [Tutorials and Blog Posts](#tutorials)
 - [Papers](#papers)
   - [Image](#image)
