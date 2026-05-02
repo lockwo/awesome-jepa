@@ -40,6 +40,7 @@ This is a curated list of awesome Joint Embedding Predictive Architecture (JEPA)
 ### Language <a name="nlp"></a>
 
 - [VL-JEPA: Joint Embedding Predictive Architecture for Vision-language (2025)](https://arxiv.org/abs/2512.10942)
+- [LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures (2025)](https://arxiv.org/abs/2509.14252)
 
 ### Audio <a name="audio"></a>
 
@@ -53,3 +54,4 @@ This is a curated list of awesome Joint Embedding Predictive Architecture (JEPA)
 
 - [ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, "Self-supervised learning from images with a joint-embedding predictive architecture.". <img src="https://img.shields.io/github/stars/facebookresearch/ijepa?style=social" align="center">
 - [jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video. <img src="https://img.shields.io/github/stars/facebookresearch/jepa?style=social" align="center">
+- [jepax](https://github.com/sugolov/jepax) - JAX/Equinox implementation of JEPA models and related self-supervised learning methods. <img src="https://img.shields.io/github/stars/sugolov/jepax?style=social" align="center">
